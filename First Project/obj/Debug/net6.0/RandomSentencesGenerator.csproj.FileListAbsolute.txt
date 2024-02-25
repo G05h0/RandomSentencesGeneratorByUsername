@@ -1,0 +1,15 @@
+C:\Users\Comp\source\repos\First Project\First Project\bin\Debug\net6.0\RandomSentencesGenerator.exe
+C:\Users\Comp\source\repos\First Project\First Project\bin\Debug\net6.0\RandomSentencesGenerator.deps.json
+C:\Users\Comp\source\repos\First Project\First Project\bin\Debug\net6.0\RandomSentencesGenerator.runtimeconfig.json
+C:\Users\Comp\source\repos\First Project\First Project\bin\Debug\net6.0\RandomSentencesGenerator.dll
+C:\Users\Comp\source\repos\First Project\First Project\bin\Debug\net6.0\RandomSentencesGenerator.pdb
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.AssemblyInfo.cs
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.dll
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\refint\RandomSentencesGenerator.dll
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.pdb
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\RandomSentencesGenerator.genruntimeconfig.cache
+C:\Users\Comp\source\repos\First Project\First Project\obj\Debug\net6.0\ref\RandomSentencesGenerator.dll
